@@ -110,3 +110,6 @@ Update your LinkedIn Profile with a strong bio statement, a professional photo, 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 ScreenShot
 ![Portfo](https://user-images.githubusercontent.com/62157127/90459853-8062cf00-e0d0-11ea-80fd-9745f1e9dcf2.png)
+
+Check it out!
+https://tmbx9482.github.io/My-Portfolio-Page/
