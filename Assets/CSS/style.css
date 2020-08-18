@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/1200px-Computer-screen-code-glitch-animation-gif-background-free.gif);
+    background-origin: inherit;
+
+}
+
+.navbar h1 {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+    background: darkblue;
+    color: #423e69;
+    font-size: 30px;
+}
+
+.col-sm-4 {
+    background-image: url(https://www.technocrazed.com/wp-content/uploads/2015/11/Cool-Black-And-White-Wallpapers-Resolution-1920x1080-Desktop-Backgrounds-13.jpg);
+    margin-bottom: 10px;
+}
+
+.handpointer {
+    width: 120px;
+    height: 115px;
+    float: right !important;
+}
+
+a {
+    color: whitesmoke;
+}
+
+.navbar-brand {
+    color: whitesmoke !important;
+}
+
+.navbar-brand {
+    justify-content: right;
+}
+
+.card {
+    margin-top: 40px;
+}
+
+.card-body h2 {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+    width: 250px;
+    height: 200px;
+    border: darkblue;
+}
+
+.img-thumbnail {
+    padding: .25rem;
+    background-color: darkblue;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+.social-media {
+    float: left;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.nav-item {
+    margin: 10px;
+    display: inline-block;
+}
+
+.card-body {
+    background-image: linear-gradient(135deg, #5EFCE8 10%, #736EFE 100%);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+.footer p {
+    margin-bottom: 0px;
+    color: whitesmoke;
+}
+
+/* Didn't need media query for respones.
